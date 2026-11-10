@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-size: 17.5px;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans Armenian', system-ui, -apple-system, sans-serif;
+    color: #1e293b;
+    background-color: #f8fafc;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, .font-serif-title {
+    font-family: 'Lora', 'Noto Sans Armenian', Georgia, serif;
+    letter-spacing: -0.01em;
+  }
+
+  .font-brand {
+    font-family: 'Cinzel', 'Lora', serif;
+  }
+}
+
+.text-scale-normal {
+  font-size: 1rem;
+}
+
+.text-scale-large {
+  font-size: 1.15rem;
+}
+
+.text-scale-xlarge {
+  font-size: 1.3rem;
+}

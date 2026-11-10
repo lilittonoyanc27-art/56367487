@@ -1,0 +1,6 @@
+{
+  "name": "El Romance — Իսպանական Ռոմանս",
+  "description": "Իսպանական գրականության ռոմանսի ինտերակտիվ ձեռնարկ՝ իսպաներենից հայերեն քլիքով թարգմանությամբ, վանկերի և սինալեֆաների հաշվիչով ու քննական ամփոփիչներով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
